@@ -6,11 +6,11 @@ Constantemente me encuentro estudiando y potenciando mis conocimientos para gene
 Entre las soluciones que he desarrollado he trabajado como backend, frontend y como full stack.
 
 ### Actualmente estoy trabajando con:
-[<img src="https://github.com/jvasque/jvasque/blob/main/logos/languages/javascript.svg">](JavaScript)
+<label><img src="https://github.com/jvasque/jvasque/blob/main/logos/languages/javascript.svg" width="200" height="200" />JavaScript</label>
 ***
 
 ### Puedes contactarme:
-LinkedIn: [Markdown][1].
+LinkedIn: [@carlosriquelmegonzalez][1].
 
 [1]: https://www.linkedin.com/in/carlosriquelmegonzalez/        "@carlosriquelmegonzalez"
 

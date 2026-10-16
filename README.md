@@ -3,7 +3,7 @@
 **Desarrollador de software full stack · IA y agentes**
 Punta Arenas, Chile · Programando desde 2009 · Trabajo remoto
 
-> **English:** *Full stack software developer focused on AI and agents. I build web apps and products end to end (React, Next.js, TypeScript, Node.js, PHP, SQL databases), AI assistants, chatbots and automations. Based in Chile, working remotely. Spanish native, intermediate English.*
+*English version below.*
 
 Soy ingeniero informático. Construyo software de punta a punta: la interfaz, el servidor, la base de datos y las integraciones con otros sistemas. He trabajado en empresas, con clientes propios y en proyectos personales. Hoy me enfoco en productos con inteligencia artificial: agentes, asistentes, chatbots y automatizaciones.
 
@@ -19,8 +19,6 @@ Para empresas, startups y pequeños negocios:
 ### Dónde he trabajado
 
 Bloom Alert · Circa Tech · PoketBot · NTT DATA · Corporación de Rehabilitación Club de Leones Cruz del Sur, entre otras empresas y proyectos desde 2009.
-
-Más detalle y proyectos en mi web **[criquelme.pages.dev](https://criquelme.pages.dev/)**
 
 ### Inteligencia artificial
 
@@ -48,8 +46,48 @@ También he usado Vue, Astro y Python.
 
 ### Hablemos
 
+¿Tienes un proyecto o una vacante? Escríbeme desde mi web (WhatsApp o correo).
+
 [![Web](https://img.shields.io/badge/Web-criquelme.pages.dev-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://criquelme.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosriquelmegonzalez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosriquelmegonzalez/)
 
-¿Tienes un proyecto o una vacante? Escríbeme desde mi web (WhatsApp o correo). 
-*Have a project or a role? Reach me through my website.*
+---
+
+### Hi! I'm Carlos
+
+**Full stack software developer · AI and agents**
+Punta Arenas, Chile · Coding since 2009 · Remote work
+
+I'm a computer engineer. I build software end to end: the interface, the server, the database and the integrations with other systems. I've worked for companies, with my own clients and on personal projects. Today I focus on AI products: agents, assistants, chatbots and automations.
+
+### How I can help
+
+For companies, startups and small businesses:
+
+- **Software products and applications**: from the first version to a running product. Frontend with React, Next.js and TypeScript; backend with Node.js or PHP; MySQL and PostgreSQL databases.
+- **AI agents and assistants**: chatbots and assistants that answer questions, support your team or handle specific tasks, connected to your data and tools.
+- **Automations and integrations**: connecting systems, forms, spreadsheets and services to remove repetitive manual work.
+- **Websites**: fast pages that make it easy to present your business or product and get in touch.
+
+### Where I've worked
+
+Bloom Alert · Circa Tech · PoketBot · NTT DATA · Corporación de Rehabilitación Club de Leones Cruz del Sur, among other companies and projects since 2009.
+
+### Artificial intelligence
+
+- Agents and assistants built on language models (OpenAI, DeepSeek and free models).
+- Chatbots for Telegram and other channels.
+- Automations that connect AI with data, spreadsheets and services.
+- Reviewing and evaluating AI-generated answers.
+- AI-assisted development with tools like Cursor.
+
+### Technologies
+
+Same as above. I've also used Vue, Astro and Python.
+
+### Let's talk
+
+Have a project or a role? Reach me through my website (WhatsApp or email). Spanish native, intermediate English.
+
+[![Web](https://img.shields.io/badge/Web-criquelme.pages.dev-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://criquelme.pages.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosriquelmegonzalez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosriquelmegonzalez/)

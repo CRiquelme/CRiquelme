@@ -20,6 +20,8 @@ Para empresas, startups y pequeños negocios:
 
 Bloom Alert · Circa Tech · PoketBot · NTT DATA · Corporación de Rehabilitación Club de Leones Cruz del Sur, entre otras empresas y proyectos desde 2009.
 
+Más detalle y proyectos en mi web: **[criquelme.pages.dev](https://criquelme.pages.dev/)**
+
 ### Inteligencia artificial
 
 - Agentes y asistentes con modelos de lenguaje (OpenAI, DeepSeek y modelos gratuitos).
@@ -72,6 +74,8 @@ For companies, startups and small businesses:
 ### Where I've worked
 
 Bloom Alert · Circa Tech · PoketBot · NTT DATA · Corporación de Rehabilitación Club de Leones Cruz del Sur, among other companies and projects since 2009.
+
+More details and projects on my website: **[criquelme.pages.dev](https://criquelme.pages.dev/)**
 
 ### Artificial intelligence
 

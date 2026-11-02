@@ -20,7 +20,7 @@ Para empresas, startups y pequeños negocios:
 
 Bloom Alert · Circa Tech · PoketBot · NTT DATA · Corporación de Rehabilitación Club de Leones Cruz del Sur, entre otras empresas y proyectos desde 2009.
 
-Más detalle y proyectos en mi web: **[criquelme.pages.dev](https://criquelme.pages.dev/)**
+Más detalle y proyectos en mi web: **[criquelme.dev](https://criquelme.dev/)**
 
 ### Inteligencia artificial
 

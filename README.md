@@ -93,5 +93,5 @@ Same as above. I've also used Vue, Astro and Python.
 
 Have a project or a role? Reach me through my website (WhatsApp or email). Spanish native, intermediate English.
 
-[![Web](https://img.shields.io/badge/Web-criquelme.pages.dev-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://criquelme.pages.dev/)
+[![Web](https://img.shields.io/badge/Web-criquelme.pages.dev-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://criquelme.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosriquelmegonzalez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosriquelmegonzalez/)

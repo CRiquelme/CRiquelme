@@ -50,7 +50,7 @@ También he usado Vue, Astro y Python.
 
 ¿Tienes un proyecto o una vacante? Escríbeme desde mi web (WhatsApp o correo).
 
-[![Web](https://img.shields.io/badge/Web-criquelme.pages.dev-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://criquelme.pages.dev/)
+[![Web](https://img.shields.io/badge/Web-criquelme.dev-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://criquelme.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosriquelmegonzalez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosriquelmegonzalez/)
 
 ---
@@ -75,7 +75,7 @@ For companies, startups and small businesses:
 
 Bloom Alert · Circa Tech · PoketBot · NTT DATA · Corporación de Rehabilitación Club de Leones Cruz del Sur, among other companies and projects since 2009.
 
-More details and projects on my website: **[criquelme.pages.dev](https://criquelme.pages.dev/)**
+More details and projects on my website: **[criquelme.dev](https://criquelme.dev/)**
 
 ### Artificial intelligence
 
@@ -93,5 +93,5 @@ Same as above. I've also used Vue, Astro and Python.
 
 Have a project or a role? Reach me through my website (WhatsApp or email). Spanish native, intermediate English.
 
-[![Web](https://img.shields.io/badge/Web-criquelme.pages.dev-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://criquelme.dev/)
+[![Web](https://img.shields.io/badge/Web-criquelme.dev-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://criquelme.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosriquelmegonzalez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosriquelmegonzalez/)
